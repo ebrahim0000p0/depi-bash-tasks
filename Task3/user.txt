@@ -1,0 +1,6 @@
+name, email, 
+John, john_j123@domain.com, 55h
+Susan, ,5
+Menna, menna_ka234@domain.com,
+Magdy, magdy_mm23@localhost, 150
+Jake, jake_j121@domain.com, 131
